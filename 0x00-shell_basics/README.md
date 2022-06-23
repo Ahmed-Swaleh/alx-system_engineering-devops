@@ -1,1 +1,1 @@
-deleting first directory
+changing wd to previous one
