@@ -11,3 +11,4 @@ permission to everybody
 james bond permission
 john doe permission
 hello equals olleh
+execute permission to all subdirectories
