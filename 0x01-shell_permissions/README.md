@@ -10,3 +10,4 @@ adds Multiple permissions
 permission to everybody
 james bond permission
 john doe permission
+hello equals olleh
