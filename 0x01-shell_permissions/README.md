@@ -14,3 +14,4 @@ hello equals olleh
 execute permission to all subdirectories
 new directory with 751 permissions
 change group owner
+changing owner and group
