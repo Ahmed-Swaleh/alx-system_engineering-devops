@@ -13,3 +13,4 @@ john doe permission
 hello equals olleh
 execute permission to all subdirectories
 new directory with 751 permissions
+change group owner
