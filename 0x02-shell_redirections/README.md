@@ -5,3 +5,4 @@ task 0,printing hello world
 4. last lines of a file
 5. first lines actually
 Task 1. Confused smiley
+line #2
